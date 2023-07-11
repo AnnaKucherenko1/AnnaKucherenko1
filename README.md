@@ -26,14 +26,19 @@ Full-stack development
 
 ### ✨Projects
 
-Throughout my journey, I have worked on various projects that have allowed me to enhance my skills and explore new technologies. You can find some of my notable projects in the repositories below or on my personal Web:
-[AnnaKucherenko](https://annakucherenko.netlify.app/)
-#### Feel free to explore my repositories to get a better understanding of my coding style and problem-solving approach.
+Throughout my journey, I have worked on various projects that have allowed me to enhance my skills and explore new technologies. You can find some of my notable projects in the repositories below or on [my personal web](https://annakucherenko.netlify.app/).
+
+Feel free to explore my repositories to get a better understanding of my coding style and problem-solving approach.
 
 ### 📧 Contact Me
 If you have any questions or would like to collaborate on a project, feel free to reach out to me through the following channels:
 
 Email: annakucherenko1997@gmail.com
+
 LinkedIn: [Anna Kucherenko](https://github.com/https://www.linkedin.com/in/anna-kucherenko1/)
-GitHub: [AnnaKucherenko1](https://github.com/AnnaKucherenko1)
-#### 🤝I am always excited to connect with fellow developers and work together to create amazing things. Let's turn ideas into reality and make a positive impact through technology!
+
+GitHub: [Anna Kucherenko](https://github.com/AnnaKucherenko1)
+
+Personal Website: [web](https://annakucherenko.netlify.app/)
+
+🤝I am always excited to connect with fellow developers and work together to create amazing things. Let's turn ideas into reality and make a positive impact through technology!
