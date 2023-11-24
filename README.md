@@ -22,7 +22,7 @@ In the past, I had the opportunity to work as a manager in logistics, which has 
 
 ### ✨Areas of Expertise
 Full-stack development
-#### [![JavaScript TypeScript HTML5 CSS3 REACT Angular NodeJS Express MongoDB PostgreSQL Git Redux TailwindCSS Jest](https://skills.thijs.gg/icons?i=js,ts,html,css,react,angular,nodejs,expressjs,mongodb,postgres,git,redux,tailwind,jest)](https://skills.thijs.gg)
+#### [![JavaScript TypeScript HTML5 CSS3 REACT VUE Angular NodeJS Express MongoDB PostgreSQL Git Redux TailwindCSS Jest](https://skills.thijs.gg/icons?i=js,ts,html,css,react,vue,angular,nodejs,expressjs,mongodb,postgres,git,redux,tailwind,jest)](https://skills.thijs.gg)
 
 ### ✨Projects
 
