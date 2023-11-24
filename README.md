@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ### ✨Introduction
 My name is Anna, and welcome to my GitHub. I am a passionate and dedicated developer who loves coding and thrives on challenges. I have a strong desire to transform ideas into reality and enjoy the process of problem-solving.
 
-### ✨Background
-In the past, I had the opportunity to work as a manager in logistics, which has equipped me with valuable skills in problem-solving, effective communication, and efficient management. These experiences have further fueled my passion for finding innovative solutions and applying them in the world of software development.
+### ✨ Portfolio: [web](https://annakucherenko.netlify.app/)
 
 ### ✨Areas of Expertise
 Full-stack development
@@ -39,6 +38,5 @@ LinkedIn: [Anna Kucherenko](https://github.com/https://www.linkedin.com/in/anna-
 
 GitHub: [Anna Kucherenko](https://github.com/AnnaKucherenko1)
 
-Personal Website: [web](https://annakucherenko.netlify.app/)
 
 🤝I am always excited to connect with fellow developers and work together to create amazing things. Let's turn ideas into reality and make a positive impact through technology!
