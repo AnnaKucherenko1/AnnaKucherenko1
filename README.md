@@ -20,8 +20,15 @@ My name is Anna, and welcome to my GitHub. I am a passionate and dedicated devel
 ### ✨ Portfolio: [web](https://annakucherenko.netlify.app/)
 
 ### ✨Areas of Expertise
-Full-stack development
-#### [![JavaScript TypeScript HTML5 CSS3 REACT VUE Angular NodeJS Express MongoDB PostgreSQL Git Redux TailwindCSS Jest](https://skills.thijs.gg/icons?i=js,ts,html,css,react,vue,angular,nodejs,expressjs,mongodb,postgres,git,redux,tailwind,jest)](https://skills.thijs.gg)
+Full-stack development, with experience in:
+- JavaScript, TypeScript
+- HTML5, CSS3, TailwindCSS, MUI
+- React, Vue, Angular
+- Node.js, Express.js
+- MongoDB, PostgreSQL
+- Git, Redux
+- Jest 
+
 
 ### ✨Projects
 
