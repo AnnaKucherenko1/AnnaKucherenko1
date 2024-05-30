@@ -23,10 +23,10 @@ My name is Anna, and welcome to my GitHub. I am a passionate and dedicated devel
 Full-stack development, with experience in:
 - JavaScript, TypeScript
 - HTML5, CSS3, TailwindCSS, MUI
-- React, Vue, Angular
+- React, Vue, Angular, Redux
 - Node.js, Express.js
-- MongoDB, PostgreSQL
-- Git, Redux
+- MongoDB, PostgreSQL, Knex.js
+- Git
 - Jest 
 
 
